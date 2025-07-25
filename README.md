@@ -6,7 +6,7 @@ A full-stack application for NGOs to submit monthly reports and for admins to mo
 
 ## 🌐 Live Demo
 
-**Deployed Link**: [https://your-deployment-url.com](https://your-deployment-url.com)  
+**Deployed Link**: [https://ngo-eta-pied.vercel.app/](https://ngo-eta-pied.vercel.app/)  
 
 ---
 
